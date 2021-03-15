@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed on Feature Branch
+          Learn React automatic Pull Request
         </a>
       </header>
     </div>
